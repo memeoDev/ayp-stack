@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "Jose Ortiz"
+name = "ayp-stack"
 version = "0.0.1"
 authors = [
     { name="memeoAmazonas", email="jgot.universidad@gmail.com" },
@@ -21,3 +21,4 @@ classifiers = [
 [project.urls]
 "Homepage" = "https://github.com/memeoDev/ayp-stack"
 "Bug Tracker" = "https://github.com/memeoDev/ayp-stack/issues"
+
